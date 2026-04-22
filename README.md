@@ -1,4 +1,4 @@
-# Ahmad Khoirul Fajri
+# Ahmad Khoirul Fajeri
 **Full-Stack Developer | AI Researcher | Postgraduate Student**
 
 <p align="left">
