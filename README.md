@@ -21,8 +21,8 @@
 ### About Me
 I am a **Master’s Student in Software Engineering at Nankai University**, China. As a **Full-Stack Developer** and **Postgraduate Researcher**, my expertise lies in bridging the gap between scalable web ecosystems and cutting-edge Artificial Intelligence.
 
-*   **Education:** Pursuing a Master of Software Engineering at **Nankai University (南开大学)**.
 
+*   **Education:** Pursuing a Master of Software Engineering at **Nankai University (南开大学)**.
 *   **Current Research:** Optimizing Computer Vision & Multimodal AI for advanced disease detection in shrimp farming (Aquaculture).
 *   **Edge AI:** Experienced in deploying and training sophisticated models on the edge device
 *   **Full-Stack Mastery:** Architecting modern applications using SvelteKit, Nuxt.js, Laravel, and Flask frameworks.
@@ -66,7 +66,7 @@ I am a **Master’s Student in Software Engineering at Nankai University**, Chin
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akfajricrt&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akfajricrt&layout=compact&theme=radical" alt="Top Languages" height="180" />
@@ -80,12 +80,6 @@ I am a **Master’s Student in Software Engineering at Nankai University**, Chin
 *   **Digital Wallet & Payment** - Integrated with Midtrans Payment Gateway.
 
 ---
-
-<p align="left">
-<a href="https://linkedin.com/in/akfajri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://fajri.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Website" height="30" width="40" /></a>
-<a href="mailto:hello@fajri.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
-</p>
 
 <p align="center">
   <i>"Turning complex problems into elegant, efficient code."</i><br>
